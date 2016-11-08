@@ -1,0 +1,1 @@
+<title>MyCollab- ${param.title}</title>
